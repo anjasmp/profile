@@ -1,0 +1,21 @@
+Jumbotrons
+title
+subtitle
+
+skills
+logo
+title
+
+portfolios
+nama_portfolio
+relasi ke pemilik portfolio
+kategori
+link_demo
+deskripsi
+
+contacts
+body
+subbody
+
+download_resume
+pdf-cv
